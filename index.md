@@ -4,8 +4,8 @@
 	function initEmbeddedMessaging() {
 		try {
 			embeddedservice_bootstrap.prechatAPI.setHiddenPrechatFields({
-				Member_ID__c: '123456789',
-				First_Name__c: 'John'
+				"userName": "123456789",
+				"memberName": 'John"
 			});
 
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
