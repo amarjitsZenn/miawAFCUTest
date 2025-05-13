@@ -19,8 +19,8 @@
 
 				embeddedservice_bootstrap.init(
 					'00DOy00000FuqeQ',
-					'Test_Bot_Deployment',
-					'https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotDeployment1746502473299',
+					'Test_Bot_Github',
+					'https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotGithub1747159519141',
 					{
 						scrt2URL: 'https://1source--devzencbqa.sandbox.my.salesforce-scrt.com'
 					}
@@ -31,7 +31,7 @@
 		};
 	</script>
 
-	<script type='text/javascript' src='https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotDeployment1746502473299/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+	<script type='text/javascript' src='https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotGithub1747159519141/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
   </body>
 </html>
