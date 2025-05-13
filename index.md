@@ -18,11 +18,11 @@
 				embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 				embeddedservice_bootstrap.init(
-					'00DOv00000GBadF',
+					'00DOy00000FuqeQ',
 					'Test_Bot_Deployment',
-					'https://1source--devzencb.sandbox.my.site.com/ESWTestBotDeployment1744745105508',
+					'https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotDeployment1746502473299',
 					{
-						scrt2URL: 'https://1source--devzencb.sandbox.my.salesforce-scrt.com'
+						scrt2URL: 'https://1source--devzencbqa.sandbox.my.salesforce-scrt.com'
 					}
 				);
 			} catch (err) {
@@ -31,7 +31,7 @@
 		};
 	</script>
 
-	<script type='text/javascript' src='https://1source--devzencb.sandbox.my.site.com/ESWTestBotDeployment1744745105508/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+	<script type='text/javascript' src='https://1source--devzencbqa.sandbox.my.site.com/ESWTestBotDeployment1746502473299/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
   </body>
 </html>
