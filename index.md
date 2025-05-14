@@ -11,7 +11,7 @@
 						"memberID" : "123456789",   // Optional, replace with actual member ID.
 						"memberFirstName" : "John", // Optional, replace with actual first name.
 						"memberLastName" : "Doe",   // Optional, replace with actual last name.
-						"messagingChannel": "affinity-banking-web", // Required, replace with actual channel name. affinity-mobile-banking, affinity-web, or affinity-banking-web
+						"messagingChannel": "affinity-mobile-banking", // Required, replace with actual channel name. affinity-mobile-banking, affinity-web, or affinity-banking-web
 					});
 				});
 
